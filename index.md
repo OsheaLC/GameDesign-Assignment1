@@ -1,7 +1,7 @@
 ## Pandora's Box
 
 ### Trello Brainstorm
-[link]()
+[link](https://github.com/OsheaLC/GameDesign-Assignment1/blob/gh-pages/Brainstorm.md)
 
 ### Pitch
 [link]()
