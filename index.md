@@ -10,11 +10,11 @@ This project is currenty being worked on by Liam O'Shea and Alan Duggan
 ### Pitch
 Video
 
--
+&nbsp  
 
 [link](https://www.youtube.com/watch?v=pPDvmRVU7VM)
 
--
+&nbsp  
 
 Slides
 
@@ -23,6 +23,6 @@ Slides
 ### Scrum Board and Burndown Chart
 [link](https://trello.com/b/3gl9wrEW/pandoras-box-scrum)
 
--
+&nbsp  
 
 ![Burndown chart](bdcgraph.png)
