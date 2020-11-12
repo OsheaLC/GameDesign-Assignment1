@@ -36,6 +36,6 @@ Slides
 [link](https://trello.com/b/3gl9wrEW/pandoras-box-scrum)
   
 ## Burndown Chart
-[link](https://1drv.ms/x/s!AsPPxQcsz40CgmUDN3qKcbeWiNYT?e=QqeK1F)
-
 ![Burndown chart](bdcgraph.png)
+
+[link](https://1drv.ms/x/s!AsPPxQcsz40CgmUDN3qKcbeWiNYT?e=QqeK1F)
