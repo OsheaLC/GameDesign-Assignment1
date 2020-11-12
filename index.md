@@ -4,7 +4,12 @@ This project is currenty being worked on by Liam O'Shea and Alan Duggan
 
 ---
 
-### Trello Brainstorm
+### Brainstorm
+
+This brainstorm took place on the 10th of November and took an hour and a half
+
+![Brainstorm](brainstorm.jpg)
+
 [link](https://trello.com/b/d81dQKNz/pandoras-box-brainstorm)
 
 ---
@@ -18,7 +23,7 @@ Video
 
 Slides
 
-[link]
+[link](https://docs.google.com/presentation/d/e/2PACX-1vQWJEB9Wz_-y2kbxJ3rA5ICCyhs8S3QLdeDtp5y7CqM5dNCNdb4ua_uM5C06HkrtAGAT5WVBYw8Fg86/pub?start=false&loop=false&delayms=5000)
 
 ---
 
