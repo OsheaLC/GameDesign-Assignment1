@@ -22,4 +22,7 @@ Slides
 
 ### Scrum Board and Burndown Chart
 [link](https://trello.com/b/3gl9wrEW/pandoras-box-scrum)
+
+-
+
 ![Burndown chart](bdcgraph.png)
