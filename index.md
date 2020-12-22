@@ -56,20 +56,20 @@ The Dark Tyrant is the leader of all the monsters that have been released.  The 
 ---
 
 ## Level Design
-# Environment 1 (Home and Town) 
+## Environment 1 (Home and Town) 
 ![Home level](home.png)
 ![Town level](town.png)
  
-# Environment 2 (Mountains) 
+## Environment 2 (Mountains) 
 ![Mountain level](mtn.png)
  
-# Environment 3 (Swamp) 
+## Environment 3 (Swamp) 
 ![Swamp level](swamp.png)
  
-# Environment 4 (Volcano) 
+## Environment 4 (Volcano) 
 ![Volcano level](volcano.png)
  
-# Environment 5 (Tyrant’s lair) 
+## Environment 5 (Tyrant’s lair) 
 ![Lair level](lair.png)
 
 ---
