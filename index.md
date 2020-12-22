@@ -53,3 +53,16 @@ The Dark Tyrant is the leader of all the monsters that have been released.  The 
 
 ---
 ## Level Design
+||Level Name|
+||Area 1|Area 2|Area 3|Area 4|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
