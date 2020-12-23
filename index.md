@@ -77,5 +77,5 @@ The Dark Tyrant is the leader of all the monsters that have been released.  The 
 ![Beat Chart](beatchart.png)
 
 ---
-
-[link to twine prototype](Deimos.html)
+## Twine prototype
+[Link to twine prototype](Deimos.html)
