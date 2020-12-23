@@ -78,4 +78,4 @@ The Dark Tyrant is the leader of all the monsters that have been released.  The 
 
 ---
 
-<a href="https://github.com/OsheaLC/GameDesign-Assignment1/blob/gh-pages/Deimos.html">
+[link to twine prototype](Deimos.html)
