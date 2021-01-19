@@ -88,5 +88,5 @@ The Dark Tyrant is the leader of all the monsters that have been released.  The 
 
 ---
 
-##Game Design Doc
+## Game Design Doc
 [Link to GDD](10pagegdd.docx)
